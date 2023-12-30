@@ -5,6 +5,5 @@
     alt 200 OK
     Server->>Browser: HTML document
     else 200 OK
-    
     end
 ```
